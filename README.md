@@ -1,6 +1,6 @@
 # The Foods of My Country: Indonesia 🇮🇩
 
-Hello Intersect, Selamat Datang! This collection is my answer to the question, "Who are you?" For us Indonesians, food is not just something we eat, it is part of who we are. To me, we are what we eat, and that's why *"I"* am the foods of my country. These foods show the real Indonesia, from the streets to our homes. They are not just food—they are full of memories, tradition, and flavors that make us proud.
+Hello Intersect, Selamat Datang! This collection is my answer to the question, "Who are you?" For us Indonesians, food is not just something we eat, it is part of who we are. To me, we are what we eat, and that's why *"I"* am the foods of my country. These foods show the real Indonesia, from the streets to our homes. They are not just food, they are full of memories, tradition, and flavors that make us proud.
 
 ### Featured Foods:
 
