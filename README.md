@@ -9,17 +9,17 @@ These foods are part of my life and my identity as an Indonesian. When I think a
 Bandung: A sweet pink drink with rose syrup and milk, perfect for cooling down on a hot day.
 <img src="https://raw.githubusercontent.com/rahilwan/design-my-profile-intersect/main/bandung.png" alt="Bandung" width="50%">
 <br><br>
-Gado-Gado: A mix of vegetables, tofu, and eggs with peanut sauce. It’s like a salad, but with a lot of flavors!
+Gado-Gado: A mix of vegetables, tofu, and eggs with peanut sauce. Like a salad, but with lots of flavors!
 <img src="https://raw.githubusercontent.com/rahilwan/design-my-profile-intersect/main/gadogado.png" alt="Gado Gado" width="50%">
 <br><br>
 Indomie: Our instant noodles that everyone loves. Fast to cook, but really tasty. Every Indonesian knows this!
 <img src="https://raw.githubusercontent.com/rahilwan/design-my-profile-intersect/main/indomie.png" alt="Indomie" width="50%">
 <br><br>
-Nasi Goreng: Fried rice with a special Indonesian taste, usually with spices and a fried egg on top. Simple but always delicious.
+Nasi Goreng: Fried rice with spices and a fried egg. Simple but always delicious.
 <img src="https://raw.githubusercontent.com/rahilwan/design-my-profile-intersect/main/nasigoreng.png" alt="Nasi Goreng" width="50%">
 <br><br>
-Rendang: A slow-cooked beef dish with coconut milk and spices. It takes time to make, but the result is so good!
+Rendang: Slow-cooked beef with coconut milk and spices. Takjes time to make, but result is so good!
 <img src="https://raw.githubusercontent.com/rahilwan/design-my-profile-intersect/main/rendang.png" alt="Rendang" width="50%">
 <br><br>
-Sate: Grilled meat on sticks, served with peanut sauce. It’s always a favorite for everyone.
+Sate: Grilled meat on sticks, with peanut sauce. Always a favorite for everyone.
 <img src="https://raw.githubusercontent.com/rahilwan/design-my-profile-intersect/main/sate.png" alt="Sate" width="50%">
