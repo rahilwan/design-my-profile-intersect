@@ -4,8 +4,9 @@
 
 Here is a gallery of images from my repository:
 
-![Image 1](https://raw.githubusercontent.com/rahilwan/design-my-profile-intersect/main/image1.jpg)
-![Image 2](https://raw.githubusercontent.com/rahilwan/design-my-profile-intersect/main/image2.jpg)
-![Image 3](https://raw.githubusercontent.com/rahilwan/design-my-profile-intersect/main/image3.jpg)
-![Image 4](https://raw.githubusercontent.com/rahilwan/design-my-profile-intersect/main/image4.jpg)
-![Image 5](https://raw.githubusercontent.com/rahilwan/design-my-profile-intersect/main/image5.jpg)
+![Bandung](https://raw.githubusercontent.com/rahilwan/design-my-profile-intersect/main/bandung.png)
+![Gado Gado](https://raw.githubusercontent.com/rahilwan/design-my-profile-intersect/main/gadogado.png)
+![Indomie](https://raw.githubusercontent.com/rahilwan/design-my-profile-intersect/main/indomie.png)
+![Nasi Goreng](https://raw.githubusercontent.com/rahilwan/design-my-profile-intersect/main/nasigoreng.png)
+![Rendang](https://raw.githubusercontent.com/rahilwan/design-my-profile-intersect/main/rendang.png)
+![Sate](https://raw.githubusercontent.com/rahilwan/design-my-profile-intersect/main/sate.png)
