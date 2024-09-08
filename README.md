@@ -1,12 +1,25 @@
-# design-my-profile-intersect
+# The Foods of My Country: Indonesia 🇮🇩
 
-# Image Gallery
+Hello Intersect, Selamat Datang! This collection is my answer to the question, "Who are you?" For us Indonesians, food is not just something we eat—it’s part of who we are. I believe, we are what we eat, and for me, I am the food of my country. These dishes show the real Indonesia, from the streets to our homes. They are not just food—they are full of memories, tradition, and flavors that make us proud.
 
-Here is a gallery of images from my repository:
+### Featured Foods:
+
+These foods are part of my life and my identity as an Indonesian. When I think about who I am, I think about these dishes because they show where I come from and what makes my country special.
 
 <img src="https://raw.githubusercontent.com/rahilwan/design-my-profile-intersect/main/bandung.png" alt="Bandung" width="50%">
+- **Bandung**: A sweet pink drink with rose syrup and milk, perfect for cooling down on a hot day.
+
 <img src="https://raw.githubusercontent.com/rahilwan/design-my-profile-intersect/main/gadogado.png" alt="Gado Gado" width="50%">
+- **Gado-Gado**: A mix of vegetables, tofu, and eggs with peanut sauce. It’s like a salad, but with a lot of flavors!
+
 <img src="https://raw.githubusercontent.com/rahilwan/design-my-profile-intersect/main/indomie.png" alt="Indomie" width="50%">
+- **Indomie**: Our instant noodles that everyone loves. Fast to cook, but really tasty. Every Indonesian knows this!
+
 <img src="https://raw.githubusercontent.com/rahilwan/design-my-profile-intersect/main/nasigoreng.png" alt="Nasi Goreng" width="50%">
+- **Nasi Goreng**: Fried rice with a special Indonesian taste, usually with spices and a fried egg on top. Simple but always delicious.
+
 <img src="https://raw.githubusercontent.com/rahilwan/design-my-profile-intersect/main/rendang.png" alt="Rendang" width="50%">
+- **Rendang**: A slow-cooked beef dish with coconut milk and spices. It takes time to make, but the result is so good!
+
 <img src="https://raw.githubusercontent.com/rahilwan/design-my-profile-intersect/main/sate.png" alt="Sate" width="50%">
+- **Sate**: Grilled meat on sticks, served with peanut sauce. It’s always a favorite for everyone.
